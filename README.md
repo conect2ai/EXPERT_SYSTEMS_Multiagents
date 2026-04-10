@@ -5,7 +5,7 @@
   <img width="800" src="./logo.jpg"
 </p>
 
-# A Multi-Agent Generative AI Architecture for Knowledge Continuity in Legacy Industrial Automation Systems
+# Multi‐Agent RAG for Knowledge Continuity in Legacy Industrial Automation
 
 # Authors
 - [Matheus Andrade](https://scholar.google.com/citations?user=wQhsVBcAAAAJ&hl=pt-BR&oi=ao)
