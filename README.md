@@ -11,6 +11,7 @@
 - [Matheus Andrade](https://scholar.google.com/citations?user=wQhsVBcAAAAJ&hl=pt-BR&oi=ao)
 - [Marianne Silva](https://scholar.google.com/citations?user=kxJvTTUAAAAJ&hl=pt-BR)
 - [Dennis Brandão](https://scholar.google.com/citations?user=OxSKwvEAAAAJ&hl=pt-BR)
+- [Paolo Ferrari](https://scholar.google.com/citations?user=-BIQbXMAAAAJ&hl=it)
 - [Ivanovitch Silva](https://scholar.google.com/citations?user=aa5xs_0AAAAJ&hl=pt-BR)
 
 ## 📚 Overview
