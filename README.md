@@ -16,7 +16,7 @@
 
 ## 📚 Overview
 
-This repository contains the source code and experimental framework for the study: "A Multi-Agent Generative AI Architecture for Knowledge Continuity in Legacy Industrial Automation Systems".
+This repository contains the source code and experimental framework for the study: "Multi-Agent Orchestration for Knowledge Continuity in Legacy Industrial Automation".
 
 In legacy industrial environments, critical engineering expertise is often trapped in thousands of pages of unstructured technical documentation, making diagnostics and maintenance challenging. This project addresses this by investigating Generative AI as an enabling technology for knowledge continuity, using the PROFIBUS protocol as a representative case study.
 
